@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "tokemak-quant-project"
+version = "0.1.0"
+description = ""
+authors = [""]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+web3 = "^5.31.1"
+jupyterlab = "^3.5.0"
+pandas = "^1.5.1"
+python-dotenv = "^0.21.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.2.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+example = "tokemak_quant_project.example:main"
