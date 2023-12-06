@@ -2,8 +2,8 @@
 
 The goal of this project is analyze Curve & Maverick LST pool (Mode-Both on MAV) using on-chain data. 
 
-Curve pool stETH/ETH: 0x06325440D014e39736583c165C2963BA99fAf14E
-MAV pool swETH/ETH: 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+1. Curve pool stETH/ETH: 0x06325440D014e39736583c165C2963BA99fAf14E
+2. MAV pool swETH/ETH: 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
 
   1. Identify various sources of return for an LP
   2. Analyze 30 & 90 day return for an LP 
