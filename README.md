@@ -8,8 +8,8 @@ The goal of this project is analyze Curve & Maverick LST pool (Mode-Both on MAV)
 
 The pools are - 
 
-  a. Curve pool stETH/ETH: 0x06325440D014e39736583c165C2963BA99fAf14E
-  b. MAV pool swETH/ETH: 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
+  * Curve pool stETH/ETH: 0x06325440D014e39736583c165C2963BA99fAf14E
+  * MAV pool swETH/ETH: 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
 
 ## Project Requirements
 * use primarily on-chain data. Show code on how the data was pulled and analyzed
