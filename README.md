@@ -6,7 +6,7 @@ The goal of this project is analyze Curve & Maverick LST pool (Mode-Both on MAV)
   2. Analyze 30 & 90 day return for an LP 
   3. Recommend which pool is expected to have the best risk-adjusted return for a relatively passive investment strategy
 
-The pools are - 
+The pools are: 
 
   * Curve pool stETH/ETH: 0x06325440D014e39736583c165C2963BA99fAf14E
   * MAV pool swETH/ETH: 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2
